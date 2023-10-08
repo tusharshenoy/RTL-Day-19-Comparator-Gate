@@ -9,8 +9,8 @@ wire w1,w2;
 not N1(w1,A);
 not N2(w2,B);
 
-and NA1(AlB,w1,B);
-and NA2(AgB,w2,A);
+and A1(AlB,w1,B);
+and A2(AgB,w2,A);
 
 nor NO1(AeB,AlB,AgB);
 
