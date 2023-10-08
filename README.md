@@ -1,1 +1,1 @@
-# RTL-Day-19-Comparator-Stuctural
+# RTL-Day-19-Comparator-Gate
